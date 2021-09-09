@@ -1,1 +1,0 @@
-# animated-rotary-phone
